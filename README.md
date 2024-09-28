@@ -1,9 +1,14 @@
-# React + Vite
+# To-Do List (Task App)
 
-we will create a To-Do list web app (Task App) using react JS and tailwind CSS. This react ToDo app contains a input field, so that user can enter their task. Then the task will be added in the list.
+We will develop a To-Do list web app (Task App) using React JS and Tailwind CSS. This React To-Do app will feature an input field for users to add tasks. The added tasks will be displayed in a list.
 
-When user click on any task (or any to-do list) then it will be marked a completed or incomplete task. User can also delete the to-do items from the list using the delete icon (bin icon).
+When a user clicks on a task in the list, it will be marked as completed or incomplete. Users will also have the option to delete to-do items using a delete icon (bin icon).
 
-This To-Do Task list will be saved in the browser, so that when we open the browser again we will find all our saved To-Do list / task list. To design this React App we will use Tailwind CSS.
+The To-Do Task list will be saved in the browser, allowing users to access their saved list when they reopen the browser. We will be using Tailwind CSS to design this React App.
 
-Technologies: Vite + React
+#Technologies: 
+Vite + React
+Tailwind
+
+#Storage
+Local Storage
